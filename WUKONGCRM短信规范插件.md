@@ -14,3 +14,7 @@ How to use
 
 ![Submail](./markdown/1.png)
 
+
+[点击下载](https://github.com/submail-developers/wukongcrm_sms/archive/master.zip)
+
+
